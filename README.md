@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Morgan.
-- 👀 I’m interested in bid data, data analytics and business intelligence.
+- 👀 I’m interested in big data, data analytics and business intelligence.
 - 🌱 I’m currently learning PowerBI Advanced, SQL.
 - 📫 How to reach me : thiuriroy@gmail.com
 
