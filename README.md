@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Morgan.
 - 👀 I’m interested in big data, data analytics and business intelligence.
-- 🌱 I’m currently learning PowerBI Advanced, SQL.
+- 🌱 I’m currently learning Advanced SQL and Machine Learning.
 - 📫 How to reach me : thiuriroy@gmail.com
 
 
