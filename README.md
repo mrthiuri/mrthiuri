@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Morgan.
 - 👀 I’m interested in big data, data analytics and business intelligence.
+- My personal website https://thiuriroy.wixsite.com/morganthiurimbatia
 - 🌱 I’m currently learning Advanced SQL and Machine Learning.
 - 📫 How to reach me : thiuriroy@gmail.com
 
