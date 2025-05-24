@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Morgan.
 - 👀 I’m a data something.
 # 💫 About Me:
-🔭 I’m working on advancing my skills in data science, especially in machine learning to tackle some interesting challenges.<br><br>👯 I’m eager to collaborate on ML projects that address real-world problems. If you have ideas, let’s chat!<br><br>🤝 <br><br>🌱
-
+🔭 I’m working on advancing my skills in data science, especially in machine learning to tackle some interesting challenges.<br><br>👯 I’m eager to collaborate on ML projects that address real-world problems. If you have ideas, let’s chat!<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/morgan-thiuri-40151327a/) 
 
